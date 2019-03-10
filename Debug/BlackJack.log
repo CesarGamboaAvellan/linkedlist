@@ -1,0 +1,4 @@
+﻿  LinkedList.cpp
+c:\users\cesar\documents\una\tareas\projecto2\blackjack\blackjack\linkedlist.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\cesar\documents\una\tareas\projecto2\blackjack\blackjack\linkedlist.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BlackJack.vcxproj -> C:\Users\Cesar\Documents\UNA\Tareas\Projecto2\BlackJack\Debug\BlackJack.exe
